@@ -41,6 +41,7 @@ Winning Percentage: 73.8%
 
 ## Summary
 The following pictures shows all the information in a txt file attached to our challenge code:  
+![Summary_election](
 
 
 ## Resources
