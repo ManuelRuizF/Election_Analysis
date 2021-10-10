@@ -38,10 +38,29 @@ Winner: Diana DeGette
 Winning Vote Count: 272,892  
 Winning Percentage: 73.8%  
 
+## Election Audit Summary
+## Code breakdown
+
+**Along all the code we used a variety of code lines, but mainly or most important we used "if statements and loops."**  
+First we loaded the .csv file we wanted to read and the text file we added out results in text.  
+Afterward we intialized all the variables we knew we were going to use, such as the candidate options, votes, the counties, and the count of votes in each county. Along with the winning data.  
+When everything was ready, we looped through the name of the candidates to know how many were. Also the vote count for each one with an if statement. We did the very same with the counties.  
+After closing every loop we saved our results in our text file.  
+## How can we modify the code?  
+The script loops through the different names and counties. It will work as well if there are more or less candidates. So since the scripts brings back any number of candidates and counties, we can say that we can use it in any election.  
+Now, we can modify our code in order to get more or different results depending on what we need. We are going to give 2 examples of this.  
+### Example 1  
+If you wanted to know which county had the least turnout of votes you have to create 3 variables to hold the results and the modify the if statement with the "and" to look for the "bigger than" statement and turn it into "less than" to look for the smallest values. 
+
+### Example 2
+If the political party wants to know the amount of votes his candidate had in each county so they know where to work more. We can loop into the counting votes and with an if statement just look for one candidate. So let´s say for example how many votes Raymon had in Araphoe? So you know if Raymon is likeable or not.
+
+
+
 
 ## Summary
 The following pictures shows all the information in a txt file attached to our challenge code:  
-![Summary_election](
+![Summary_election](https://github.com/ManuelRuizF/Election_Analysis/blob/main/resources/Captura.PNG)
 
 
 ## Resources
