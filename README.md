@@ -60,6 +60,7 @@ If the political party wants to know the amount of votes his candidate had in ea
 
 ## Summary
 The following pictures shows all the information in a txt file attached to our challenge code:  
+- **As you can see, we were able to successfully code the winner, with the amount of votes in each county, with their respective percentage**
 ![Summary_election](https://github.com/ManuelRuizF/Election_Analysis/blob/main/resources/Captura.PNG)
 
 
